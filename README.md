@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BasePic is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://basepic.com
+BasePic provides free image, video and file hosting services with direct links. Users can upload files up to 2 GB without registration, receiving short shareable URLs and direct download links. The platform offers tools such as image resizing, HEIC conversion, video compression, and document scanning, all performed in-browser without watermarks or sign‑up requirements.
+
+**Areas:** Company · Image Hosting · File Sharing · Video Hosting · Free Service · No Sign-up
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://basepic.com)
+- [Documentation](https://basepic.com/)
+- [API reference](https://basepic.com/llms.txt)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/basepic-com/](https://apis.io/providers/basepic-com/).
